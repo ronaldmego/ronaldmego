@@ -4,10 +4,20 @@ I'm a Chief Data Analytics Officer (CDAO) with over 15 years of experience in Da
 
 ## About Me
 - 🔭 I'm currently working as Regional Head of Data at **Millicom | Tigo**
-- 🌱 I'm continuously learning about **LLMs, GenAI, and Data Monetization**
-- 📚 MIT Executive Program graduate in **Data Leadership & Leveraging Data Systems**
+- 🌱 I'm continuously learning about **Machine Learning, LLMs, GenAI, and Data Monetization**
+- 📚 Statistical Engineer, MBA and MIT Executive Program graduate in **Data Leadership**
 - 💡 I love sharing knowledge about **Data Analytics, ML, and AI**
-- 🌎 Based in **Panama City, Panama**
+- 🌎 Based in **Panama City, Panama** | Born in **Peru**
+
+## Latest Projects
+- 📊 Customer Churn Analytics & Predictive Modeling for Fintech
+- 🎯 Advanced Customer Segmentation & Behavioral Analysis for Telecommunications
+- 📈 Marketing Mix Modeling with Cohort & Customer Lifetime Value Analytics
+- ⚡ Enterprise Dashboard Optimization using Redshift, Snowflake & Streamlit
+
+## Currently Working On
+- 🤖 Enterprise LLM Solutions with RAG Architecture for Data Analytics Acceleration
+- 🌟 Advanced Cloud-Native AI Solutions for Customer Service and Churn Management in Telecom Industry
 
 ## Tech Stack & Skills
 ### Data & Analytics
@@ -30,27 +40,11 @@ I'm a Chief Data Analytics Officer (CDAO) with over 15 years of experience in Da
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-## Latest Projects
-- 📊 Customer Churn Analytics & Predictive Modeling for Fintech
-- 🎯 Advanced Customer Segmentation & Behavioral Analysis for Telecommunications
-- 📈 Marketing Mix Modeling with Cohort & Customer Lifetime Value Analytics
-- ⚡ Enterprise Dashboard Optimization using Redshift, Snowflake & Streamlit
-
-## Currently Working On
-- 🤖 Enterprise LLM Solutions with RAG Architecture
-  - Building autonomous agents for data pipeline optimization
-  - Accelerating data cleaning, exploration, feature engineering & modeling processes
-  - Implementing open-source LLM frameworks for enterprise-scale applications
-
-- 🌟 Advanced Cloud-Native AI Solutions
-  - Developing intelligent customer service agents using commercial cloud platforms
-  - Implementing automated churn management systems with predictive capabilities
-  - Creating scalable multi-cloud AI solutions
-
 ## Connect with Me
+[![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://ronaldmego.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldmego/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/MGOData)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ronaldmego)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ronaldmego/)
 
 ## Certifications & Education
 - 🎓 MIT Executive Program - Data Leadership
