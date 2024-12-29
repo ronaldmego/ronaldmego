@@ -1,15 +1,17 @@
 # Hi there 👋, I'm Ronald Mego
 
-I'm a Chief Data Analytics Officer (CDAO) with over 15 years of experience in Data, Analytics, and AI. I'm passionate about transforming data into strategic business value and building strong data cultures.
+I'm a Chief Data Analytics Officer (CDAO) with over 15 years of experience in Data, Analytics, and AI. I specialize in transforming data into strategic business value, fostering strong data cultures, and delivering measurable results across Telecommunications, Fintech, and Digital industries.
 
 ## About Me
-- 🔭 I'm currently working as Regional Head of Data at **Millicom | Tigo**
+- 🔭 I'm currently working as Regional Head of Data at **Millicom | Tigo**, with prior experience at **Telefonica | Movistar**, both leaders in Telecommunications.
 - 🌱 I'm continuously learning about **Machine Learning, LLMs, GenAI, and Data Monetization**
-- 📚 Statistical Engineer, MBA and MIT Executive Program graduate in **Data Leadership**
-- 💡 I love sharing knowledge about **Data Analytics, ML, and AI**
+- 📚 Statistical Engineer, MBA, and MIT Executive Program graduate in **Data Leadership**
+- 📊 Achieved a **35% cost optimization** in Snowflake and AWS workloads while maintaining seamless delivery of insights.
+- 🎯 Reduced churn by **10 percentage points** through advanced customer behavior modeling and segmentation.
 - 🌎 Based in **Panama City, Panama** | Born in **Peru**
 
 ## Latest Projects
+- 🤖 Implementing AI-driven customer service solutions using LLMs and RAG for dynamic decision-making in telecom.
 - 📊 Customer Churn Analytics & Predictive Modeling for Fintech
 - 🎯 Advanced Customer Segmentation & Behavioral Analysis for Telecommunications
 - 📈 Marketing Mix Modeling with Cohort & Customer Lifetime Value Analytics
@@ -18,6 +20,7 @@ I'm a Chief Data Analytics Officer (CDAO) with over 15 years of experience in Da
 ## Currently Working On
 - 🤖 Enterprise LLM Solutions with RAG Architecture for Data Analytics Acceleration
 - 🌟 Advanced Cloud-Native AI Solutions for Customer Service and Churn Management in Telecom Industry
+- 📊 Building frameworks for 1st-party data monetization and predictive analytics to drive revenue growth across countries.
 
 ## Tech Stack & Skills
 ### Data & Analytics
