@@ -1,22 +1,22 @@
 # Hi there 👋, I'm Ronald Mego
 
-I'm a Chief Data Analytics Officer (CDAO) with over 15 years of experience in Data, Analytics, and AI. I specialize in transforming data into strategic business value, fostering strong data cultures, and building cutting-edge solutions in Telecommunications, Fintech, and Digital industries.
+I'm a Chief Data Analytics Officer (CDAO) with over 15 years of experience in Data, Analytics, and AI. I specialize in transforming data into strategic business value, fostering innovation in Telecommunications, Fintech, and Digital industries.
 
 ## About Me
-- 🔭 I'm currently working as CDAO at **Millicom | Tigo**, previously at **Telefonica | Movistar**, both in Telecom.
-- 🌱 I'm continuously learning about **Data Science, Machine Learning, Artificial Intelligence, and Data Monetization**
-- 📚 Statistical Engineer, MBA, and MIT Executive Program graduate in **Data Leadership**
-- 💡 Experienced in designing advanced customer behavior models and implementing analytics-driven AI solutions.
+- 🔭 I'm currently working as CDAO at **Millicom | Tigo**, with prior experience at **Telefonica | Movistar**, leading analytics and AI strategies for global Telecom companies.
+- 🌱 I'm continuously learning about **Data Science, Machine Learning, Artificial Intelligence**, and Data Monetization.
+- 📚 **Statistical Engineer**, **MBA**, and MIT Executive Program graduate in **Data Leadership**.
+- 💡 Experienced in **statistical modeling (descriptive and predictive)** for customer insights and decision-making.
 - 🌎 Based in **Panama City, Panama** | Born in **Peru**
 
 ## Latest Projects
-- 🤖 Implementing AI-driven customer service solutions using LLMs and RAG for dynamic decision-making in telecom.
+- 🤖 Building enterprise LLM solutions with RAG architecture to enhance data analytics workflows in telecom.
 - 📊 Developing customer behavior models for segmentation and personalized engagement campaigns in Telecom and Fintech.
 - 🎯 Designing advanced data monetization strategies, including predictive analytics and 1st-party data frameworks.
 - 📈 Streamlining enterprise dashboards with tools like Power BI, Snowflake, and Streamlit.
 
 ## Currently Working On
-- 🤖 Building enterprise LLM solutions with RAG architecture to enhance data analytics workflows.
+- ⚙️ Creating customer behavioral segmentation and next-best-offer (NBO) strategies to increase data consumption and drive revenue growth.
 - 🌟 Creating cloud-native AI solutions for customer service and churn management in Telecommunications.
 - 📊 Developing frameworks for advanced data monetization and predictive analytics to drive strategic growth.
 
