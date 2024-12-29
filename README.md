@@ -4,7 +4,7 @@ I'm a Chief Data Analytics Officer (CDAO) with over 15 years of experience in Da
 
 ## About Me
 - 🔭 I'm currently working as CDAO at **Millicom | Tigo**, previously at **Telefonica | Movistar**, both in Telecom.
-- 🌱 I'm continuously learning about **Machine Learning, LLMs, GenAI, and Data Monetization**
+- 🌱 I'm continuously learning about **Data Science, Machine Learning, Artificial Intelligence, and Data Monetization**
 - 📚 Statistical Engineer, MBA, and MIT Executive Program graduate in **Data Leadership**
 - 📊 Achieved a **35% cost optimization** in Snowflake and AWS workloads while maintaining seamless delivery of insights.
 - 🎯 Reduced churn by **10 percentage points** through advanced customer behavior modeling and segmentation.
