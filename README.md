@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ronald Mego
 
-I'm a Sr. Data Analytics Manager, with over 15 years of experience in Data, Analytics, and AI. I specialize in transforming data into strategic business value, fostering innovation in Telecommunications, Fintech, and Digital industries.
+I'm a Sr. Data Analytics Manager, with over 15 years of experience in Data, Analytics, and Gen AI. I specialize in transforming data into strategic business value, fostering innovation in Telecommunications, Fintech, and Digital industries.
 
 ## About Me
 - 🔭 I'm currently working as Regional Head of Data at **Millicom | Tigo**, a global leader in Telecommunications.
