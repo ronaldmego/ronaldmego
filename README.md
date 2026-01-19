@@ -38,7 +38,7 @@ Skip the first step, and you're building on sand.
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/ronaldmego"><img src="https://img.shields.io/badge/LinkedIn-0c1117?style=flat-square&logo=linkedin&logoColor=d4a574" /></a>
+  <a href="https://linkedin.com/in/ronaldmego"><img src="https://img.shields.io/badge/in-LinkedIn-0c1117?style=flat-square&logo=linkedin&logoColor=d4a574" /></a>
   <a href="https://x.com/MGOData"><img src="https://img.shields.io/badge/X-0c1117?style=flat-square&logo=x&logoColor=d4a574" /></a>
   <a href="https://buymeacoffee.com/ronaldmego"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-0c1117?style=flat-square&logo=buy-me-a-coffee&logoColor=d4a574" /></a>
 </p>
