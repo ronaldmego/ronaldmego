@@ -1,6 +1,6 @@
-# Hi, I'm Ronald 👋
+# Ronald Mego | Head of Data Analytics & CEO GalacticaIA
 
-📍 Panama 🇵🇦 | 🏢 Head of Data Analytics and Digital @ Tigo | 🚀 Scaling GalacticaIA
+📍 Panama 🇵🇦 | 🏢 Head of Data Analytics and Digital @ Tigo | 🚀 CEO & Founder, GalacticaIA
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -11,56 +11,58 @@
 ![OpenClaw](https://img.shields.io/badge/-OpenClaw-FF6B35?style=flat-square&logo=openai&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**15+ years** turning messy enterprise data into strategic gold across **telecom, fintech, and e-commerce**. Now building the future of **Data Governance + AI** for LATAM enterprises.
+**15+ years** of enterprise data strategy and analytics leadership across **telecom, fintech, and e-commerce**. Currently architecting **Data Governance + AI frameworks** for LATAM enterprise adoption.
 
-I believe **enterprise AI without governance is just expensive chaos**.
+## Executive Summary
+
+**Enterprise AI without governance is strategic liability.**
 
 ```
-Data Strategy → Governance Foundation → Safe AI Adoption → $10M ARR
-Skip governance, and you're building castles on quicksand.
+Data Strategy → Governance Foundation → AI Adoption → Enterprise Value
 ```
 
-## Current Projects
+Leading digital transformation initiatives that bridge **enterprise data infrastructure** with **autonomous AI systems** to deliver measurable business outcomes for organizations serving 50M+ users.
 
-- 🎯 [OpenClaw Command Center](https://github.com/ronaldmego/openclaw-command-center) - AI agent task management and orchestration system
-- 📊 [Claude Code Usage Dashboard](https://github.com/ronaldmego/claude-code-usage-dashboard) - Token usage analytics and cost optimization for AI teams
-- 🤖 [OpenMetadata MCP Agent](https://github.com/ronaldmego/openmetadata-agent) - Conversational layer for data catalog exploration
+## Strategic Initiatives
+
+- 🎯 [OpenClaw Command Center](https://github.com/ronaldmego/openclaw-command-center) - Enterprise AI orchestration and governance platform
+- 📊 [Claude Code Usage Dashboard](https://github.com/ronaldmego/claude-code-usage-dashboard) - AI cost optimization and analytics framework
+- 🤖 [OpenMetadata MCP Agent](https://github.com/ronaldmego/openmetadata-agent) - Conversational data catalog and governance layer
 - 🏢 [GalacticaIA](https://galacticaia.com) - Data Governance + AI consulting for LATAM enterprises
-- 📝 [ronaldmego.com](https://ronaldmego.com) - Technical writing on Data + AI governance
+- 📝 [ronaldmego.com](https://ronaldmego.com) - Executive insights on Data + AI governance strategies
 
-## What I'm Building
+## Value Proposition
 
-Living in the intersection of **enterprise data strategy** and **AI-first development**. After 15+ years helping organizations scale data platforms for 50M+ users, now focused on solving the "**agent sprawl**" problem for enterprises.
+**Specialization:** Enterprise data strategy meets AI-first development methodologies.
 
-**The Mission:** Help LATAM companies adopt AI safely without breaking their data foundations.
+**Focus Area:** Solving the "agent sprawl" challenge for enterprises while maintaining data governance standards.
 
-**The Thesis:** Every enterprise will need a "**Data Governance for AI**" strategy. We're building the tools and playbooks to make it happen.
+**Mission:** Enable safe AI adoption for LATAM enterprises without compromising data foundation integrity.
 
-## Stack & Philosophy
+**Market Thesis:** Every enterprise requires integrated "Data Governance for AI" strategies. Building the frameworks and tooling to enable this transformation.
 
-- **Languages:** Python (data), SQL (everything), Node.js (web), bash (glue)
-- **Data Stack:** PostgreSQL, BigQuery, Snowflake, Supabase, OpenMetadata, Airflow
-- **AI Stack:** Claude (Opus + Sonnet), OpenClaw, MCP servers, custom agents
-- **Deployment:** Docker, Coolify, self-hosted on VPS (control freak about data)
-- **Approach:** Build in public, ship fast, measure everything
+## Technical Architecture
 
-> "Vibe coding meets enterprise rigor" - I prototype with AI agents, then harden for production
+- **Data Engineering:** PostgreSQL, BigQuery, Snowflake, Supabase, OpenMetadata, Apache Airflow
+- **AI/ML Platform:** Claude (Opus + Sonnet), OpenClaw ecosystem, MCP protocol, autonomous agent frameworks  
+- **Infrastructure:** Docker containerization, self-hosted deployment, enterprise security standards
+- **Development Philosophy:** Rapid prototyping with AI assistance, production hardening through enterprise patterns
 
-## Experience
+## Leadership Experience
 
-- **2025-**: Head of Data Analytics and Digital @ Tigo (Millicom) - Leading AI adoption strategy
-- **2009-2024**: 15+ years across Telefónica, fintech, and e-commerce - Built data platforms serving 50M+ users
-- **2024**: MIT Data Leadership Diploma - Bridging technical and strategic perspectives
-- **2016-2018**: MBA from PAD - Because data people need business sense too
+- **2025-Present**: Head of Data Analytics and Digital @ Tigo (Millicom) - Leading enterprise AI adoption strategy and data platform modernization
+- **2009-2024**: 15+ years executive data roles across Telefónica, fintech, and e-commerce - Architected data platforms serving 50M+ users
+- **2024**: MIT Data Leadership Diploma - Strategic data governance and enterprise AI adoption
+- **2016-2018**: MBA from PAD Universidad de Piura - Business strategy and executive leadership
 
-## Recognition
+## Industry Recognition
 
-- **Featured Work:** OpenClaw ecosystem contributor, MCP server author
-- **Speaking:** Data + AI governance for LATAM enterprises
-- **Writing:** Technical posts on agent orchestration and data strategy
-- **Community:** Building tools that solve real enterprise problems, not demos
+- **Product Innovation:** Core contributor to OpenClaw ecosystem and MCP server protocol
+- **Thought Leadership:** Data + AI governance strategies for LATAM enterprise market
+- **Technical Writing:** Enterprise-focused content on autonomous agent orchestration and data strategy
+- **Community Impact:** Open-source frameworks addressing real enterprise challenges
 
-## Connect
+## Professional Network
 
 <a href="https://ronaldmego.com">
   <img src="https://img.shields.io/badge/→_ronaldmego.com-FF6B35?style=for-the-badge&labelColor=1a1b23" alt="Visit ronaldmego.com" />
@@ -70,19 +72,18 @@ Living in the intersection of **enterprise data strategy** and **AI-first develo
 [![X](https://img.shields.io/badge/X-1a1b23?style=flat-square&logo=x&logoColor=FF6B35)](https://x.com/MGOData)
 [![Email](https://img.shields.io/badge/Email-1a1b23?style=flat-square&logo=gmail&logoColor=FF6B35)](mailto:ronald@galacticaia.com)
 
-## Philosophy
+## Strategic Philosophy
 
-**"Enterprise-grade AI starts with enterprise-grade data."**
+**"Enterprise-grade AI requires enterprise-grade data governance."**
 
-I build tools to solve my own problems at scale, then share them with the community. Currently exploring how **Data Governance** becomes the competitive moat for AI-first companies.
+Developing solutions to address enterprise-scale challenges, then contributing frameworks to the broader technology community. Currently researching how **Data Governance** becomes the strategic differentiator for AI-first enterprises.
 
-**Random Facts:**
-- Run Pepa 🐷, my 24/7 AI partner, on a self-hosted VPS
-- Coffee-powered productivity (Panama has excellent coffee)
-- Kickboxing enthusiast (when not debugging agents)
-- Father to Galatea (my biggest motivation for building something meaningful)
-- Peruvian living in Panama, serving LATAM enterprises globally
+**Background:**
+- Enterprise architect with autonomous AI systems deployment experience
+- Peruvian executive based in Panama, serving LATAM enterprise clients globally
+- MIT-trained data leadership strategist focused on measurable business outcomes
+- Father and strategic long-term thinker building sustainable technology solutions
 
 ---
 
-*Building the future of Data + AI governance, one commit at a time.*
+*Architecting the future of enterprise Data + AI governance through systematic innovation.*
