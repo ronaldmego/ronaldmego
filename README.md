@@ -1,6 +1,6 @@
-# Ronald Mego | Head of Data Analytics & CEO GalacticaIA
+# Ronald Mego | Agentic AI & Data Governance
 
-📍 Panama 🇵🇦 | 🏢 Head of Data Analytics and Digital @ Tigo | 🚀 CEO & Founder, GalacticaIA
+📍 Panama 🇵🇦 | Head of Data Analytics & Digital @ Tigo | CEO & Founder, GalacticaIA
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -57,10 +57,9 @@ Leading digital transformation initiatives that bridge **enterprise data infrast
 
 ## Industry Recognition
 
-- **Product Innovation:** Core contributor to OpenClaw ecosystem and MCP server protocol
 - **Thought Leadership:** Data + AI governance strategies for LATAM enterprise market
 - **Technical Writing:** Enterprise-focused content on autonomous agent orchestration and data strategy
-- **Community Impact:** Open-source frameworks addressing real enterprise challenges
+- **Open Source:** Frameworks addressing real enterprise challenges (AI orchestration, cost optimization, data catalog agents)
 
 ## Professional Network
 
