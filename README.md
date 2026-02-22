@@ -25,7 +25,7 @@ Leading digital transformation initiatives that bridge **enterprise data infrast
 
 ## Strategic Initiatives
 
-- 🎯 [OpenClaw Command Center](https://github.com/ronaldmego/openclaw-command-center) - Enterprise AI orchestration and governance platform
+- 🎯 [OpenClaw Auto Sprint](https://github.com/ronaldmego/openclaw-auto-sprint) - Autonomous AI-driven project management framework
 - 📊 [Claude Code Usage Dashboard](https://github.com/ronaldmego/claude-code-usage-dashboard) - AI cost optimization and analytics framework
 - 🤖 [OpenMetadata MCP Agent](https://github.com/ronaldmego/openmetadata-agent) - Conversational data catalog and governance layer
 - 🏢 [GalacticaIA](https://galacticaia.com) - Data Governance + AI consulting for LATAM enterprises
