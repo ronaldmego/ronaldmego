@@ -14,7 +14,7 @@
 ## What I'm Building
 
 - 📊 **[matomo-mcp](https://github.com/ronaldmego/matomo-mcp)** — Talk to your Matomo analytics in natural language. MCP server + Streamlit UI + Gemini.
-- 🧠 **[openmetadata-mcp](https://github.com/ronaldmego/openmetadata-agent)** — Conversational data catalog and governance layer via MCP.
+- 🧠 **[openmetadata-mcp-client](https://github.com/ronaldmego/openmetadata-mcp-client)** — Conversational data catalog and governance layer via MCP.
 - 📚 **[awesome-data-ai-stack](https://github.com/ronaldmego/awesome-data-ai-stack)** — Curated list of Data, AI, and Agent tools — organized by agent anatomy and data stack layers.
 - 🔐 **[agent-sql-khipu_ai](https://github.com/ronaldmego/agent-sql-khipu_ai)** — LLM agent with SQL access and RAG knowledge base.
 - 🏢 **[GalacticaIA](https://galacticaia.com)** — Data Governance + AI consulting. From Data Trust to Agent Trust.
