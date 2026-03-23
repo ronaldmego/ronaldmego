@@ -9,21 +9,22 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-**15+ years** building enterprise data platforms across telecom, fintech, and e-commerce. Specialized in **Data Governance** — helping organizations turn data into a trusted, strategic asset. AI agents are how I accelerate that work, not the other way around.
+**15+ years** building enterprise data platforms across telecom, fintech, and e-commerce. Specialized in **Data Governance** — the foundation that makes data monetization, cost reduction, and AI adoption possible. AI accelerates the journey; governance is the destination.
 
 ## What I'm Building
 
-- 🧠 **openmetadata-mcp-agent** — Conversational data catalog and governance layer via MCP. *(Private — ask me for access)*
-- 📊 **[matomo-mcp-agent](https://github.com/ronaldmego/matomo-mcp-agent)** — Talk to your Matomo analytics in natural language. MCP server + Streamlit UI + Gemini.
-- 📚 **[awesome-data-ai-stack](https://github.com/ronaldmego/awesome-data-ai-stack)** — Curated list of Data, AI, and Agent tools — organized by agent anatomy and data stack layers.
-- 🔐 **[agent-sql-khipu_ai](https://github.com/ronaldmego/agent-sql-khipu_ai)** — LLM agent with SQL access and RAG knowledge base.
-- 🏢 **[GalacticaIA](https://galacticaia.com)** — Data Governance consulting — helping enterprises govern their data and the AI that uses it.
+- 🧠 **openmetadata-mcp-agent** — Conversational interface for data catalogs and governance workflows via MCP. Talk to your metadata, lineage, and data quality in natural language. *(Private — ask me for access)*
+- 📊 **[matomo-mcp-agent](https://github.com/ronaldmego/matomo-mcp-agent)** — Natural language analytics on top of Matomo. Ask business questions, get data answers. MCP server + Streamlit UI + Gemini.
+- 🔐 **[agent-sql-khipu_ai](https://github.com/ronaldmego/agent-sql-khipu_ai)** — LLM agent with direct SQL access and RAG knowledge base. Governance-aware query layer for enterprise data.
+- 🤖 **[agent_text_classification](https://github.com/ronaldmego/agent_text_classification)** — Local LLM text classifier for sentiment analysis. Lightweight, no cloud dependency, fully open source.
+- 📚 **[awesome-data-ai-stack](https://github.com/ronaldmego/awesome-data-ai-stack)** — Curated list of Data, AI, and Agent tools organized by data stack layers and agent anatomy. Built from real enterprise experience.
+- 🏢 **[GalacticaIA](https://galacticaia.com)** — Data Governance consulting for enterprises in LATAM. OpenMetadata implementation, data lineage, data quality, and governance frameworks.
 
 ## Focus Areas
 
-**The problem:** Ungoverned data kills analytics, AI, and monetization initiatives. You can't build reliable intelligence on data nobody trusts.
+**The goal:** Data monetization and cost reduction. Enterprises sit on valuable data they can't trust, can't act on, and can't monetize — because it was never governed.
 
-**What I do:** Design and implement Data Governance frameworks — data catalogs, lineage, quality, ownership — so organizations have a solid foundation. AI agents and analytics are what you build *on top* of that foundation, not instead of it.
+**What I do:** Design and implement Data Governance frameworks — data catalogs, lineage, quality, ownership, access control. Once data is governed, analytics and AI actually work. AI is how I accelerate that implementation.
 
 **Background:** 15+ years of enterprise data leadership (Telefónica, Millicom/Tigo), MIT Data Leadership Diploma, MBA. Peruvian based in Panama.
 
