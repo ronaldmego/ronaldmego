@@ -17,13 +17,13 @@
 - 📊 **[matomo-mcp-agent](https://github.com/ronaldmego/matomo-mcp-agent)** — Talk to your Matomo analytics in natural language. MCP server + Streamlit UI + Gemini.
 - 📚 **[awesome-data-ai-stack](https://github.com/ronaldmego/awesome-data-ai-stack)** — Curated list of Data, AI, and Agent tools — organized by agent anatomy and data stack layers.
 - 🔐 **[agent-sql-khipu_ai](https://github.com/ronaldmego/agent-sql-khipu_ai)** — LLM agent with SQL access and RAG knowledge base.
-- 🏢 **[GalacticaIA](https://galacticaia.com)** — Data Governance + AI consulting. From Data Trust to Agent Trust.
+- 🏢 **[GalacticaIA](https://galacticaia.com)** — Data Governance consulting — helping enterprises govern their data and the AI that uses it.
 
 ## Focus Areas
 
-**The problem:** Enterprises are deploying AI agents faster than they can govern them. Agent sprawl is the new data sprawl.
+**The problem:** Ungoverned data kills analytics, AI, and monetization initiatives. You can't build reliable intelligence on data nobody trusts.
 
-**What I do:** Build frameworks and tools that bridge data governance with agentic AI — so organizations can adopt AI agents safely, with audit trails, access controls, and accountability.
+**What I do:** Design and implement Data Governance frameworks — data catalogs, lineage, quality, ownership — so organizations have a solid foundation. AI agents and analytics are what you build *on top* of that foundation, not instead of it.
 
 **Background:** 15+ years of enterprise data leadership (Telefónica, Millicom/Tigo), MIT Data Leadership Diploma, MBA. Peruvian based in Panama.
 
