@@ -1,4 +1,4 @@
-# Ronald Mego | Data Governance & Agentic AI
+# Ronald Mego | Data Governance
 
 📍 Panama 🇵🇦 | Founder, [GalacticaIA](https://galacticaia.com)
 
@@ -9,7 +9,7 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-**15+ years** building enterprise data platforms across telecom, fintech, and e-commerce. Now focused on **Data Governance + AI** — helping organizations adopt AI agents without losing control of their data.
+**15+ years** building enterprise data platforms across telecom, fintech, and e-commerce. Specialized in **Data Governance** — helping organizations turn data into a trusted, strategic asset. AI agents are how I accelerate that work, not the other way around.
 
 ## What I'm Building
 
@@ -38,4 +38,4 @@
 
 ---
 
-*Building the governance layer for the agentic era.*
+*Data Governance. Accelerated by AI.*
