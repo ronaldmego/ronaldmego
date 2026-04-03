@@ -13,8 +13,9 @@
 
 ## What I'm Building
 
-- 🧠 **openmetadata-mcp-agent** — Conversational interface for data catalogs and governance workflows via MCP. Talk to your metadata, lineage, and data quality in natural language. *(Private — ask me for access)*
-- 📊 **[matomo-mcp-agent](https://github.com/ronaldmego/matomo-mcp-agent)** — Natural language analytics on top of Matomo. Ask business questions, get data answers. MCP server + Streamlit UI + Gemini.
+- 🧠 **[openmetadata-mcp-agent](https://github.com/ronaldmego/openmetadata-mcp-agent)** — Conversational interface for data catalogs via MCP. Ask questions in natural language, get answers from OpenMetadata. 27 tools (read + write). Streamlit + Gemini + FastMCP.
+- 📊 **[agent-data-analyst](https://github.com/ronaldmego/agent-data-analyst)** — AI analyst that understands your data before analyzing it. Connects to OpenMetadata (governance context) + PostgreSQL (SQL) via MCP. 100% local, 100% open source.
+- 📈 **[matomo-mcp-agent](https://github.com/ronaldmego/matomo-mcp-agent)** — Natural language analytics on top of Matomo. Ask business questions, get data answers. MCP server + Streamlit UI + Gemini.
 - 🔐 **[agent-sql-khipu_ai](https://github.com/ronaldmego/agent-sql-khipu_ai)** — LLM agent with direct SQL access and RAG knowledge base. Governance-aware query layer for enterprise data.
 - 🤖 **[agent_text_classification](https://github.com/ronaldmego/agent_text_classification)** — Local LLM text classifier for sentiment analysis. Lightweight, no cloud dependency, fully open source.
 - 📚 **[awesome-data-ai-stack](https://github.com/ronaldmego/awesome-data-ai-stack)** — Curated list of Data, AI, and Agent tools organized by data stack layers and agent anatomy. Built from real enterprise experience.
