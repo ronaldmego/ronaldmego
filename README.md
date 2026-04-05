@@ -1,4 +1,4 @@
-# Ronald Mego | Data Governance & Agentic AI
+# Ronald Mego | Data Governance. Accelerated by AI.
 
 📍 Panama 🇵🇦 | Founder, [GalacticaIA](https://galacticaia.com)
 
@@ -9,23 +9,27 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-**15+ years** building enterprise data platforms across telecom, fintech, and e-commerce. Now focused on **Data Governance + AI** — helping organizations adopt AI agents without losing control of their data.
+**15+ years** building enterprise data platforms across telecom, fintech, and e-commerce. Specialized in **Data Governance** — the foundation that makes data monetization, cost reduction, and AI adoption possible.
+
+AI accelerates the journey; governance is the destination.
 
 ## What I'm Building
 
-- 🧠 **[openmetadata-mcp-agent](https://github.com/ronaldmego/openmetadata-mcp-agent)** — Conversational data catalog and governance layer via MCP.
-- 📊 **[agent-data-analyst](https://github.com/ronaldmego/agent-data-analyst)** — AI analyst that understands your data before analyzing it. Connects to OpenMetadata + PostgreSQL via MCP.
-- 📚 **[awesome-data-ai-stack](https://github.com/ronaldmego/awesome-data-ai-stack)** — Curated list of Data, AI, and Agent tools — organized by agent anatomy and data stack layers.
+- 🧠 **[openmetadata-mcp-agent](https://github.com/ronaldmego/openmetadata-mcp-agent)** — Conversational data catalog and governance layer via MCP. Ask questions in natural language, get answers from OpenMetadata.
+- 📊 **[agent-data-analyst](https://github.com/ronaldmego/agent-data-analyst)** — AI analyst that reads governance context (OpenMetadata) before running SQL. Governance-informed analytics, 100% local.
+- 📚 **[awesome-data-ai-stack](https://github.com/ronaldmego/awesome-data-ai-stack)** — Curated list of Data, AI, and Agent tools organized by data stack layers and agent anatomy.
 - 🚀 **[awesome-agentic-startup-stack](https://github.com/ronaldmego/awesome-agentic-startup-stack)** — Tools for founders to build and scale startups without hiring — automation, marketing, content, operations.
 - 🔐 **[agent-sql-khipu_ai](https://github.com/ronaldmego/agent-sql-khipu_ai)** — LLM agent with SQL access and RAG knowledge base.
-- 🤖 **[agent_text_classification](https://github.com/ronaldmego/agent_text_classification)** — Local LLM text classifier for sentiment analysis. Lightweight, no cloud dependency.
-- 🏢 **[GalacticaIA](https://galacticaia.com)** — Data Governance + AI consulting. From Data Trust to Agent Trust.
+- 🤖 **[agent_text_classification](https://github.com/ronaldmego/agent_text_classification)** — Local LLM text classifier. Lightweight, no cloud dependency.
+- 🏢 **[GalacticaIA](https://galacticaia.com)** — Data Governance consulting for enterprises in LATAM. OpenMetadata implementation, data lineage, data quality, and governance frameworks.
 
 ## Focus Areas
 
-**The problem:** Enterprises are deploying AI agents faster than they can govern them. Agent sprawl is the new data sprawl.
+**The goal:** Data monetization and cost reduction. Enterprises sit on valuable data they can't trust, can't act on, and can't monetize — because it was never governed.
 
-**What I do:** Build frameworks and tools that bridge data governance with agentic AI — so organizations can adopt AI agents safely, with audit trails, access controls, and accountability.
+**What I do:** Design and implement Data Governance frameworks — data catalogs, lineage, quality, ownership, access control. Once data is governed, analytics and AI actually work. AI is how I accelerate that implementation.
+
+**The agentic angle:** I incorporate agentic AI methodologies that reduce project delivery times from months to days — without compromising security or governance standards.
 
 **Background:** 15+ years of enterprise data leadership (Telefónica, Millicom/Tigo), MIT Data Leadership Diploma, MBA. Peruvian based in Panama.
 
@@ -40,4 +44,4 @@
 
 ---
 
-*Building the governance layer for the agentic era.*
+*Data Governance. Accelerated by AI.*
