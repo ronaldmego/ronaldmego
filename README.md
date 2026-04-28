@@ -1,6 +1,6 @@
 # Ronald Mego | Data Governance. Accelerated by AI.
 
-📍 Panama 🇵🇦 | Founder, [GalacticaIA](https://galacticaia.com)
+📍 Panama 🇵🇦 | Strategic Investor & Advisor, [GalacticaIA](https://galacticaia.com)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -13,7 +13,7 @@
 
 AI accelerates the journey; governance is the destination.
 
-## What I'm Building
+## Projects & Affiliations
 
 - 🧠 **[openmetadata-mcp-agent](https://github.com/ronaldmego/openmetadata-mcp-agent)** — Conversational data catalog and governance layer via MCP. Ask questions in natural language, get answers from OpenMetadata.
 - 📊 **[agent-data-analyst](https://github.com/ronaldmego/agent-data-analyst)** — AI analyst that reads governance context (OpenMetadata) before running SQL. Governance-informed analytics, 100% local.
@@ -21,15 +21,15 @@ AI accelerates the journey; governance is the destination.
 - 🚀 **[awesome-agentic-startup-stack](https://github.com/ronaldmego/awesome-agentic-startup-stack)** — Tools for founders to build and scale startups without hiring — automation, marketing, content, operations.
 - 🔐 **[agent-sql-khipu_ai](https://github.com/ronaldmego/agent-sql-khipu_ai)** — LLM agent with SQL access and RAG knowledge base.
 - 🤖 **[agent_text_classification](https://github.com/ronaldmego/agent_text_classification)** — Local LLM text classifier. Lightweight, no cloud dependency.
-- 🏢 **[GalacticaIA](https://galacticaia.com)** — Data Governance consulting for enterprises in LATAM. OpenMetadata implementation, data lineage, data quality, and governance frameworks.
+- 🏢 **[GalacticaIA](https://galacticaia.com)** — Data Governance firm where I serve as Strategic Investor & Advisor. Built on OpenMetadata.
 
 ## Focus Areas
 
 **The goal:** Data monetization and cost reduction. Enterprises sit on valuable data they can't trust, can't act on, and can't monetize — because it was never governed.
 
-**What I do:** Design and implement Data Governance frameworks — data catalogs, lineage, quality, ownership, access control. Once data is governed, analytics and AI actually work. AI is how I accelerate that implementation.
+**My expertise:** 15+ years designing and implementing Data Governance frameworks — data catalogs, lineage, quality, ownership, access control. Once data is governed, analytics and AI actually work.
 
-**The agentic angle:** I incorporate agentic AI methodologies that reduce project delivery times from months to days — without compromising security or governance standards.
+**The agentic angle:** Exploring how agentic AI methodologies can reduce data governance project delivery times — from months to days, without compromising security or governance standards.
 
 **Background:** 15+ years of enterprise data leadership (Telefónica, Millicom/Tigo), MIT Data Leadership Diploma, MBA. Peruvian based in Panama.
 
