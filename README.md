@@ -1,6 +1,6 @@
 # Ronald Mego | Data Governance. Accelerated by AI.
 
-📍 Panama 🇵🇦 | Strategic Investor & Advisor, [GalacticaIA](https://galacticaia.com)
+📍 Panama 🇵🇦
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -13,7 +13,7 @@
 
 AI accelerates the journey; governance is the destination.
 
-## Projects & Affiliations
+## Projects
 
 - 🧠 **[openmetadata-mcp-agent](https://github.com/ronaldmego/openmetadata-mcp-agent)** — Conversational data catalog and governance layer via MCP. Ask questions in natural language, get answers from OpenMetadata.
 - 📊 **[agent-data-analyst](https://github.com/ronaldmego/agent-data-analyst)** — AI analyst that reads governance context (OpenMetadata) before running SQL. Governance-informed analytics, 100% local.
@@ -21,7 +21,6 @@ AI accelerates the journey; governance is the destination.
 - 🚀 **[awesome-agentic-startup-stack](https://github.com/ronaldmego/awesome-agentic-startup-stack)** — Tools for founders to build and scale startups without hiring — automation, marketing, content, operations.
 - 🔐 **[agent-sql-khipu_ai](https://github.com/ronaldmego/agent-sql-khipu_ai)** — LLM agent with SQL access and RAG knowledge base.
 - 🤖 **[agent_text_classification](https://github.com/ronaldmego/agent_text_classification)** — Local LLM text classifier. Lightweight, no cloud dependency.
-- 🏢 **[GalacticaIA](https://galacticaia.com)** — Data Governance firm where I serve as Strategic Investor & Advisor. Built on OpenMetadata.
 
 ## Focus Areas
 
