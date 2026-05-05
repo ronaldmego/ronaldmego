@@ -1,38 +1,8 @@
-# Ronald Mego | Data Governance. Accelerated by AI.
+# Ronald Mego
 
-📍 Panama 🇵🇦
+**Data Governance. Accelerated by AI.**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-
-**15+ years** building enterprise data platforms across telecom, fintech, and e-commerce. Specialized in **Data Governance** — the foundation that makes data monetization, cost reduction, and AI adoption possible.
-
-AI accelerates the journey; governance is the destination.
-
-## Projects
-
-- 🧠 **[openmetadata-mcp-agent](https://github.com/ronaldmego/openmetadata-mcp-agent)** — Conversational data catalog and governance layer via MCP. Ask questions in natural language, get answers from OpenMetadata.
-- 📊 **[agent-data-analyst](https://github.com/ronaldmego/agent-data-analyst)** — AI analyst that reads governance context (OpenMetadata) before running SQL. Governance-informed analytics, 100% local.
-- 📚 **[awesome-data-ai-stack](https://github.com/ronaldmego/awesome-data-ai-stack)** — Curated list of Data, AI, and Agent tools organized by data stack layers and agent anatomy.
-- 🚀 **[awesome-agentic-startup-stack](https://github.com/ronaldmego/awesome-agentic-startup-stack)** — Tools for founders to build and scale startups without hiring — automation, marketing, content, operations.
-- 🔐 **[agent-sql-khipu_ai](https://github.com/ronaldmego/agent-sql-khipu_ai)** — LLM agent with SQL access and RAG knowledge base.
-- 🤖 **[agent_text_classification](https://github.com/ronaldmego/agent_text_classification)** — Local LLM text classifier. Lightweight, no cloud dependency.
-
-## Focus Areas
-
-**The goal:** Data monetization and cost reduction. Enterprises sit on valuable data they can't trust, can't act on, and can't monetize — because it was never governed.
-
-**My expertise:** 15+ years designing and implementing Data Governance frameworks — data catalogs, lineage, quality, ownership, access control. Once data is governed, analytics and AI actually work.
-
-**The agentic angle:** Exploring how agentic AI methodologies can reduce data governance project delivery times — from months to days, without compromising security or governance standards.
-
-**Background:** 15+ years of enterprise data leadership (Telefónica, Millicom/Tigo), MIT Data Leadership Diploma, MBA. Peruvian based in Panama.
-
-## Connect
+📍 Panama 🇵🇦 — 15+ years building enterprise data platforms across telecom, fintech, and e-commerce. Specialized in Data Governance: the foundation that makes data monetization, cost reduction, and AI adoption possible.
 
 <a href="https://ronaldmego.com">
   <img src="https://img.shields.io/badge/→_ronaldmego.com-FF6B35?style=for-the-badge&labelColor=1a1b23" alt="Visit ronaldmego.com" />
@@ -43,4 +13,21 @@ AI accelerates the journey; governance is the destination.
 
 ---
 
-*Data Governance. Accelerated by AI.*
+## Background
+
+15+ years of enterprise data leadership (Telefónica, Millicom/Tigo). MIT Data Leadership Diploma, MBA. Peruvian based in Panama.
+
+Currently exploring how agentic AI methodologies can compress data governance delivery times — from months to days, without compromising security or governance standards.
+
+## Selected open source
+
+A few of my public repos:
+
+- 📚 **[awesome-data-ai-stack](https://github.com/ronaldmego/awesome-data-ai-stack)** — Curated list of Data, AI, and Agent tools organized by data stack layers and agent anatomy.
+- 🚀 **[awesome-agentic-startup-stack](https://github.com/ronaldmego/awesome-agentic-startup-stack)** — Tools for founders to build and scale startups without hiring.
+- 🔐 **[agent-sql-khipu_ai](https://github.com/ronaldmego/agent-sql-khipu_ai)** — LLM agent with SQL access and RAG knowledge base.
+- 🤖 **[agent_text_classification](https://github.com/ronaldmego/agent_text_classification)** — Local LLM text classifier. Lightweight, no cloud dependency.
+
+---
+
+*Full work, writing, and contact at [ronaldmego.com](https://ronaldmego.com).*
