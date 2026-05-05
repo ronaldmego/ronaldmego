@@ -19,14 +19,12 @@
 
 Currently exploring how agentic AI methodologies can compress data governance delivery times — from months to days, without compromising security or governance standards.
 
-## Selected open source
+## Recommended stacks
 
-A few of my public repos:
+Two lists I keep updated with the tools I recommend:
 
-- 📚 **[awesome-data-ai-stack](https://github.com/ronaldmego/awesome-data-ai-stack)** — Curated list of Data, AI, and Agent tools organized by data stack layers and agent anatomy.
-- 🚀 **[awesome-agentic-startup-stack](https://github.com/ronaldmego/awesome-agentic-startup-stack)** — Tools for founders to build and scale startups without hiring.
-- 🔐 **[agent-sql-khipu_ai](https://github.com/ronaldmego/agent-sql-khipu_ai)** — LLM agent with SQL access and RAG knowledge base.
-- 🤖 **[agent_text_classification](https://github.com/ronaldmego/agent_text_classification)** — Local LLM text classifier. Lightweight, no cloud dependency.
+- 📚 **[Data + AI Stack →](https://github.com/ronaldmego/awesome-data-ai-stack)** — Tools across data, AI, and agent layers, organized by stack and agent anatomy.
+- 🚀 **[Agentic Startup Stack →](https://github.com/ronaldmego/awesome-agentic-startup-stack)** — Tools for founders to build and operate startups without hiring.
 
 ---
 
