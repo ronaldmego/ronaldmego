@@ -19,13 +19,6 @@
 
 Currently exploring how agentic AI methodologies can compress data governance delivery times — from months to days, without compromising security or governance standards.
 
-## Recommended stacks
-
-Two lists I keep updated with the tools I recommend:
-
-- 📚 **[Data + AI Stack →](https://github.com/ronaldmego/awesome-data-ai-stack)** — Tools across data, AI, and agent layers, organized by stack and agent anatomy.
-- 🚀 **[Agentic Startup Stack →](https://github.com/ronaldmego/awesome-agentic-startup-stack)** — Tools for founders to build and operate startups without hiring.
-
 ---
 
 *Full work, writing, and contact at [ronaldmego.com](https://ronaldmego.com).*
