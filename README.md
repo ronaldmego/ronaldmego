@@ -6,7 +6,7 @@ Advisor and leader in Data Governance. I've led data and analytics across **tele
 
 <a href="https://ronaldmego.com"><img src="https://img.shields.io/badge/ronaldmego.com-A8482B?style=for-the-badge&labelColor=1B1812" alt="ronaldmego.com" /></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1812?style=for-the-badge&logo=linkedin&logoColor=A8482B)](https://linkedin.com/in/ronaldmego)
-[![X](https://img.shields.io/badge/X-1B1812?style=for-the-badge&logo=x&logoColor=A8482B)](https://x.com/MGOData)
+[![X](https://img.shields.io/badge/X-1B1812?style=for-the-badge&logo=x&logoColor=A8482B)](https://x.com/ronaldmego_)
 
 ---
 
