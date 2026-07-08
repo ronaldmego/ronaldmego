@@ -31,7 +31,7 @@ I turn data into a trustworthy advantage: solid governance, quality, and a clear
 - **[llm-radar](https://github.com/ronaldmego/llm-radar)** — [Live dashboard](https://ronaldmego.github.io/llm-radar) of the LLM landscape: pricing, context windows, and capabilities of 300+ models, auto-updated daily. Quarto + GitHub Pages.
 - **[openmetadata-mcp-agent](https://github.com/ronaldmego/openmetadata-mcp-agent)** — Conversational AI agent over OpenMetadata data catalogs. Ask your metadata in natural language.
 - **[agent-sql-khipu_ai](https://github.com/ronaldmego/agent-sql-khipu_ai)** — LLM agent with SQL access and a RAG knowledge base.
-- **[claude-guide](https://github.com/ronaldmego/claude-guide)** — Spanish-language enablement kit for rolling out Claude in a company: curated official sources and a training plan.
+- **[claude-kit](https://github.com/ronaldmego/claude-kit)** — Spanish-language kit to use Claude well and safely (Claude Code & Cowork): curated official sources + ready-to-copy CLAUDE.md / settings.json templates.
 
 ## I talk about this
 
