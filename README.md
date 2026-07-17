@@ -39,7 +39,10 @@ Public code that backs the narrative — strongest first:
 
 ## I talk about this
 
-Talks, writing, and case studies at **[ronaldmego.com/charlas](https://ronaldmego.com/charlas)**.
+- **[Agentic Data Governance for Monetization](https://ronaldmego.com/en/charlas/gobierno-datos-agentico)** — from DAMA and OpenMetadata to AI agents that create value.
+- **[AI in Action](https://ronaldmego.com/en/charlas/ia-en-accion)** — live demo of AI agents applied to finance and HR, at GBS Experience by BPrO (Cartagena).
+
+More writing and case studies at **[ronaldmego.com](https://ronaldmego.com)**.
 
 ---
 
