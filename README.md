@@ -2,6 +2,8 @@
 
 **Data Governance | Customer & Digital Analytics | Data Privacy | Governed AI**
 
+> I learned to see the world through statistics. What keeps me curious is a bigger question: how can data and technology help people and organizations make better decisions?
+
 Senior data and analytics leader working across data governance, customer & digital analytics, data privacy, and governed AI. I combine strategy, architecture, and hands-on execution across **telecom, fintech, media, and digital businesses** in LATAM —from Peru to Panama— and today I head digital-ecosystem analytics at **Millicom/Tigo**.
 
 <a href="https://ronaldmego.com"><img src="https://img.shields.io/badge/ronaldmego.com-A8482B?style=for-the-badge&labelColor=1B1812" alt="ronaldmego.com" /></a>
