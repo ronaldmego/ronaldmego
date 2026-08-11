@@ -27,9 +27,9 @@ Guest lecturer in Applied Computational Statistics — **UNI**.
 
 I turn data into a trustworthy advantage: solid governance, quality, and a clear path from compliance to analytics and governed AI. I'm exploring how **agentic AI** can *operate* governance —policies, lineage, quality— at greater speed, without giving up security or control.
 
-## Technical evidence
+## Selected projects
 
-Public code that backs the narrative — strongest first:
+A selection of public projects — strongest first:
 
 - **[data-intelligence-lab](https://github.com/ronaldmego/data-intelligence-lab)** — Reproducible demos across data governance and governed AI: a catalog-aware agent that reads metadata before analyzing, a conversational layer over OpenMetadata, and grounded LLM+SQL agents. *Data Governance + Governed AI.*
 - **[llm-radar](https://github.com/ronaldmego/llm-radar)** — [Live dashboard](https://ronaldmego.github.io/llm-radar) of the LLM landscape: pricing, context windows, and capabilities of 300+ models, auto-updated daily. Reproducible pipeline with licensing and self-hosting signals useful for **governed model selection**. Quarto + GitHub Pages.
