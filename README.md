@@ -1,10 +1,10 @@
 # Ronald Mego
 
-**Data Governance | Customer & Digital Analytics | Data Privacy | Governed AI**
+**Data Governance | Customer Analytics | Digital Analytics | Data Privacy | Agentic AI**
 
 > I learned to see the world through statistics. What keeps me curious is a bigger question: how can data and technology help people and organizations make better decisions?
 
-Senior data and analytics leader working across data governance, customer & digital analytics, data privacy, and governed AI. I combine strategy, architecture, and hands-on execution across **telecom, fintech, media, and digital businesses** in LATAM —from Peru to Panama— and today I head digital-ecosystem analytics at **Millicom/Tigo**.
+Senior data and analytics leader working across data governance, customer analytics, digital analytics, data privacy, and agentic AI. I combine strategy, architecture, and hands-on execution across **telecom, fintech, media, and digital businesses** in LATAM —from Peru to Panama— and today I head digital-ecosystem analytics at **Millicom/Tigo**.
 
 <a href="https://ronaldmego.com"><img src="https://img.shields.io/badge/ronaldmego.com-A8482B?style=for-the-badge&labelColor=1B1812" alt="ronaldmego.com" /></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1812?style=for-the-badge&logo=linkedin&logoColor=A8482B)](https://linkedin.com/in/ronaldmego)
@@ -25,18 +25,18 @@ Guest lecturer in Applied Computational Statistics — **UNI**.
 
 ## What I work on
 
-I turn data into a trustworthy advantage: solid governance, quality, and a clear path from compliance to analytics and governed AI. I'm exploring how **agentic AI** can *operate* governance —policies, lineage, quality— at greater speed, without giving up security or control.
+I turn data into a trustworthy advantage: solid governance, quality, and a clear path from compliance to analytics and AI you can trust. I'm exploring how **agentic AI** can *operate* governance —policies, lineage, quality— at greater speed, without giving up security or control.
 
 ## Selected projects
 
 A selection of public projects — strongest first:
 
-- **[data-intelligence-lab](https://github.com/ronaldmego/data-intelligence-lab)** — Reproducible demos across data governance and governed AI: a catalog-aware agent that reads metadata before analyzing, a conversational layer over OpenMetadata, and grounded LLM+SQL agents. *Data Governance + Governed AI.*
+- **[data-intelligence-lab](https://github.com/ronaldmego/data-intelligence-lab)** — Reproducible demos across data governance and governed AI: a catalog-aware agent that reads metadata before analyzing, a conversational layer over OpenMetadata, and grounded LLM+SQL agents. *Data Governance + Agentic AI.*
 - **[llm-radar](https://github.com/ronaldmego/llm-radar)** — [Live dashboard](https://ronaldmego.github.io/llm-radar) of the LLM landscape: pricing, context windows, and capabilities of 300+ models, auto-updated daily. Reproducible pipeline with licensing and self-hosting signals useful for **governed model selection**. Quarto + GitHub Pages.
 - **[ccfuel](https://github.com/ronaldmego/ccfuel)** — Fuel gauge for Claude Code: tracks the tokens that *actually* burn your weekly quota, ignoring cache reads (~96% of volume). Node.js, zero-build.
 - **[claude-kit](https://github.com/ronaldmego/claude-kit)** — Spanish-language kit to use Claude well and safely (Claude Code & Cowork): curated official sources + ready-to-copy CLAUDE.md / settings.json templates.
 
-*Customer & Digital Analytics and Data Privacy are central to my work but not yet mirrored by a public reference implementation — open evidence for both is on the way.*
+*Digital Analytics and Data Privacy are central to my work but not yet mirrored by a public reference implementation — open evidence for both is on the way.*
 
 ## I talk about this
 
