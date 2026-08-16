@@ -1,10 +1,10 @@
 # Ronald Mego
 
-**Data Governance | Customer Analytics | Digital Analytics | Agentic AI**
+**Data Governance | Data Lakehouse | Customer Analytics | Digital Analytics | Agentic AI**
 
 > I learned to see the world through statistics. What keeps me curious is a bigger question: how can data and technology help people and organizations make better decisions?
 
-Senior data and analytics leader working across data governance, customer analytics, digital analytics, and agentic AI. I combine strategy, architecture, and hands-on execution across **telecom, fintech, media, and digital businesses** in LATAM —from Peru to Panama— and today I head digital-ecosystem analytics at **Millicom/Tigo**.
+Senior data and analytics leader working across data governance, data lakehouse architecture, customer analytics, digital analytics, and agentic AI. I combine strategy, architecture, and hands-on execution across **telecom, fintech, media, and digital businesses** in LATAM —from Peru to Panama— and today I head digital-ecosystem analytics at **Millicom/Tigo**.
 
 <a href="https://ronaldmego.com"><img src="https://img.shields.io/badge/ronaldmego.com-A8482B?style=for-the-badge&labelColor=1B1812" alt="ronaldmego.com" /></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1812?style=for-the-badge&logo=linkedin&logoColor=A8482B)](https://linkedin.com/in/ronaldmego)
@@ -36,7 +36,7 @@ A selection of public projects — strongest first:
 - **[ccfuel](https://github.com/ronaldmego/ccfuel)** — Fuel gauge for Claude Code: tracks the tokens that *actually* burn your weekly quota, ignoring cache reads (~96% of volume). Node.js, zero-build.
 - **[claude-kit](https://github.com/ronaldmego/claude-kit)** — Spanish-language kit to use Claude well and safely (Claude Code & Cowork): curated official sources + ready-to-copy CLAUDE.md / settings.json templates.
 
-*Digital Analytics is central to my work but not yet mirrored by a public reference implementation — open evidence is on the way.*
+*Digital Analytics and Data Lakehouse are central to my work but not yet mirrored by a public reference implementation — they rest on role and track record for now.*
 
 ## I talk about this
 
