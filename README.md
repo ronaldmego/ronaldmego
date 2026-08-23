@@ -1,52 +1,11 @@
 # Ronald Mego
 
-**Data Governance | Data Lakehouse | Customer Analytics | Digital Analytics | Agentic AI**
+![Data & AI Strategy — Ronald Mego](./assets/2026-08-23_ronald-mego-github-profile-header-executive-navy-v1.svg)
 
-> I learned to see the world through statistics. What keeps me curious is a bigger question: how can data and technology help people and organizations make better decisions?
+**Data & Analytics Executive | Enterprise Data Strategy | Governance | Data Platforms | Customer Intelligence | Digital Ecosystems | Agentic AI**
 
-Senior data and analytics leader working across data governance, data lakehouse architecture, customer analytics, digital analytics, and agentic AI. I combine strategy, architecture, and hands-on execution across **telecom, fintech, media, and digital businesses** in LATAM —from Peru to Panama— and today I head digital-ecosystem analytics at **Millicom/Tigo**.
+> I learned to see the world through statistics. What has kept me curious ever since is a bigger question: how can data and technology help people and organizations make better decisions?
 
-<a href="https://ronaldmego.com"><img src="https://img.shields.io/badge/ronaldmego.com-A8482B?style=for-the-badge&labelColor=1B1812" alt="ronaldmego.com" /></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1812?style=for-the-badge&logo=linkedin&logoColor=A8482B)](https://linkedin.com/in/ronaldmego)
-[![X](https://img.shields.io/badge/X-1B1812?style=for-the-badge&logo=x&logoColor=A8482B)](https://x.com/ronaldmego_)
+I lead regional data and analytics strategy for Tigo’s digital ecosystem, connecting governance, architecture, observability, Customer Intelligence and Agentic AI with product and management decisions. My path spans telecom, fintech and media, from Peru to Panama.
 
----
-
-## Track record
-
-| Company | Closing role | Sector |
-|---|---|---|
-| **Millicom / Tigo** · Panama *(current)* | Head of Data Analytics — Digital | Telecom |
-| **Tigo Money (Millicom)** · Panama | Head of Data — MFS | Fintech |
-| **Grupo El Comercio** · Peru | Manager, Data & Analytics | Media |
-| **Telefónica** · Peru | Manager, Customer Intelligence | Telecom |
-
-Guest lecturer in Applied Computational Statistics — **UNI**.
-
-## What I work on
-
-I turn data into a trustworthy advantage: solid governance, quality, and a clear path from compliance to analytics and AI you can trust. I'm exploring how **agentic AI** can *operate* governance —policies, lineage, quality— at greater speed, without giving up security or control.
-
-## Selected projects
-
-A selection of public projects — strongest first:
-
-- **[data-intelligence-lab](https://github.com/ronaldmego/data-intelligence-lab)** — Reproducible demos across data governance and governed AI: a catalog-aware agent that reads metadata before analyzing, a conversational layer over OpenMetadata, and grounded LLM+SQL agents. *Data Governance + Agentic AI.*
-- **[llm-radar](https://github.com/ronaldmego/llm-radar)** — [Live dashboard](https://ronaldmego.github.io/llm-radar) of the LLM landscape: pricing, context windows, and capabilities of 300+ models, auto-updated daily. Reproducible pipeline with licensing and self-hosting signals useful for **governed model selection**. Quarto + GitHub Pages.
-- **[ccfuel](https://github.com/ronaldmego/ccfuel)** — Fuel gauge for Claude Code: tracks the tokens that *actually* burn your weekly quota, ignoring cache reads (~96% of volume). Node.js, zero-build.
-- **[claude-kit](https://github.com/ronaldmego/claude-kit)** — Spanish-language kit to use Claude well and safely (Claude Code & Cowork): curated official sources + ready-to-copy CLAUDE.md / settings.json templates.
-
-*Digital Analytics and Data Lakehouse are central to my work but not yet mirrored by a public reference implementation — they rest on role and track record for now.*
-
-## I talk about this
-
-- **[Agentic Data Governance for Monetization](https://ronaldmego.com/en/charlas/gobierno-datos-agentico)** — from DAMA and OpenMetadata to AI agents that create value.
-- **[AI in Action](https://ronaldmego.com/en/charlas/ia-en-accion)** — live demo of AI agents applied to finance and HR, at GBS Experience by BPrO (Cartagena).
-
-More writing and case studies at **[ronaldmego.com](https://ronaldmego.com)**.
-
----
-
-Statistical Engineer — **UNI** · MBA — **PAD** · Continuing executive education at **MIT · Berkeley · Darden · AWS**.
-
-*Full work, writing, and contact at [ronaldmego.com](https://ronaldmego.com).*
+[Website](https://ronaldmego.com) · [LinkedIn](https://linkedin.com/in/ronaldmego) · [X](https://x.com/ronaldmego_) · [YouTube](https://youtube.com/@ronaldmego)
